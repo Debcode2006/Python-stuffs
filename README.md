@@ -1,4 +1,4 @@
-# CodeAlpha_tasks
+# Python-stuffs
 
 A small collection of Python utility scripts and demos created for learning and quick automation tasks. Each script is standalone and uses only the Python standard library.
 
